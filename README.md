@@ -57,3 +57,7 @@ MCP stdio smoke test.
 Alembic migrations (current job only creates the initial schema) · OIDC/IdP instead of script-issued JWTs · MCP over HTTP needs
 its own auth (stdio uses a fixed service principal) · grounding check is numeric-only · eval set is 6 cases · conversation
 history is not trimmed · embeddings/pgvector for RAG at scale · approval notifications (Slack/email) · secrets manager.
+
+
+## 12. Author
+**Tito M** — AI Automation | AI Agents | Product Design | Data
