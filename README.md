@@ -59,5 +59,5 @@ its own auth (stdio uses a fixed service principal) · grounding check is numeri
 history is not trimmed · embeddings/pgvector for RAG at scale · approval notifications (Slack/email) · secrets manager.
 
 
-## 12. Author
+## Author
 **Tito M** — AI Automation | AI Agents | Product Design | Data
