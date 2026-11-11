@@ -1,0 +1,7 @@
+-r requirements.txt
+pytest>=8
+fakeredis>=2.23
+lupa>=2.0
+pgserver>=0.1.4
+locust>=2.20
+ruff>=0.5

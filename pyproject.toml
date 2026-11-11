@@ -1,0 +1,7 @@
+[tool.ruff]
+line-length = 130
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E9", "F", "B", "I"]
+ignore = ["B008"]   # FastAPI Depends() in defaults is idiomatic
